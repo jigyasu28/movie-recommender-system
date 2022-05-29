@@ -35,7 +35,7 @@ Content-based filtering was used to recommend movies. Content-based filtering wo
 * Windows 10 and above.
 
 Clone the repository:
-``` git clone [https://github.com/jigyasu28/movie-recommender-system.git](https://github.com/jigyasu28/movie-recommender-system.git) ```
+ git clone https://github.com/jigyasu28/movie-recommender-system.git
 ### For running the backend server:
 #### Method 1:
 Open backend.bat file.
@@ -49,7 +49,7 @@ Open backend.bat file.
 * Run the backend server: 
 ``` python app.py ```
 #### Backend will be hosted on http://127.0.0.1:5000/
-### For frontend run commands:
+### For running the frontend:
 #### Method 1:
 Open frontend.bat file.
 #### Method 2:
