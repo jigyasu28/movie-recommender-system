@@ -10,12 +10,12 @@ JigyasuFlix is an easy-to-use movie recommender web application. All you need to
 
 ## How it looks?
 
-## Homepage
+### Homepage
 ![](screenshots/1.png)
-## Search
+### Search
 ![](screenshots/2.png)
-## Movie Details and Recommendations
-![](screenshots/3.png)
+### Movie Details and Recommendations
+![](screenshots/3.jpg)
 
 
 ## How the recommendation engine works?
