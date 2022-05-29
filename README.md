@@ -63,7 +63,7 @@ Open frontend.bat file.
 * Backend - Python (Flask, Pandas, Pickle, Numpy, Flask-CORS).
 * Frontend - ReactJs, Material UI.
 
-## Live Video Demo
+## Video Demo
 - [https://youtu.be/IjEoe8k_qrE](https://youtu.be/IjEoe8k_qrE)
 
 ## Authors
