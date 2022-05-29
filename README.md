@@ -49,7 +49,7 @@ Frontend will be hosted on http://127.0.0.1:5000/
 * Frontend - ReactJs, Material UI.
 ## Authors
 
-- [@JigyasuJain](https://github.com/jigyasu_28)
+- [@JigyasuJain](https://github.com/jigyasu28)
 
 
 ## Feedback
