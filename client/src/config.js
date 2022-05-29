@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export const axiosInstance = axios.create({
-	baseURL : "https://jigyasuflixserver.herokuapp.com/"
+	baseURL : "https://http://127.0.0.1:5000/"
 })
