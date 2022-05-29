@@ -29,7 +29,7 @@ Content-based filtering was used to recommend movies. Content-based filtering wo
 ## How to install?
 
 ### Prerequisites: 
-* [Python3 and above](https://www.python.org/downloads/)
+* [Python3 and above](https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-in&gl=IN)
 * [NodeJs18 and above](https://nodejs.org/en/download/)
 * [Git](https://git-scm.com/download/win)
 * Windows 10 and above.
