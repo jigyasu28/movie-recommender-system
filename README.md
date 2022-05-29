@@ -31,9 +31,9 @@ Content-based filtering was used to recommend movies. Content-based filtering wo
 ### Prerequisites: 
 * Python3 and above.
 * NodeJs18 and above.
-* Wndows 10 and above.
+* Windows 10 and above.
 
-Clone the repository: [https://github.com/jigyasu28/movie-recommender-system.git](https://github.com/jigyasu28/movie-recommender-system.git)
+Clone the repository: git clone [https://github.com/jigyasu28/movie-recommender-system.git](https://github.com/jigyasu28/movie-recommender-system.git)
 ### For running the backend server:
 * Install the api dependencies using command: pip install -r api/requirements.txt
 * Run the backend server: python api/app.py
