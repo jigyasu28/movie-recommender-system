@@ -1,0 +1,17 @@
+.home{
+    background-color: var(--main-color);
+    color: white;
+    overflow: hidden;
+    // display: flex;
+    // flex-direction: column;
+    .content-container{
+        margin-top: 70px;
+        z-index: -10;
+    }
+    .navbar-container{
+        background-color: black;
+    }
+
+}
+//     position: relative;
+// }
