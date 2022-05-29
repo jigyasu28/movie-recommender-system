@@ -1,4 +1,4 @@
-#screenshots in READMEs
+
 # JigyasuFlix
 ## _The Movie Recommender_
 
