@@ -6,6 +6,8 @@
 
 JigyasuFlix is an easy-to-use movie recommender web application. All you need to do is search for a movie and it will show you a similar movie by using a variety of machine learning algorithms.
 
+Currently deployed at [https://nimble-cactus-180569.netlify.app/](https://nimble-cactus-180569.netlify.app/).
+
 
 ## How it looks?
 
@@ -26,5 +28,30 @@ Content-based filtering was used to recommend movies. Content-based filtering wo
 
 ## How to install?
 
-## Technologies Used
+### Prerequisites: 
+* Python3 and above.
+* NodeJs18 and above.
+* Wndows 10 and above.
 
+Clone the repository: [https://github.com/jigyasu28/movie-recommender-system.git](https://github.com/jigyasu28/movie-recommender-system.git)
+### For running the backend server:
+* Install the api dependencies using command: pip install -r api/requirements.txt
+* Run the backend server: python api/app.py
+Backend will be hosted on http://127.0.0.1:5000/
+### For frontend run commands:
+* Go to client folder: cd client
+* Run commands: 
+   1. npm install
+   2. npm start
+Frontend will be hosted on http://127.0.0.1:5000/
+## Technologies Used
+* Backend - Python (Flask, Pandas, Pickle, Numpy, Flask-CORS).
+* Frontend - ReactJs, Material UI.
+## Authors
+
+- [@JigyasuJain](https://github.com/jigyasu_28)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at jigyasujain81@gmail.com
