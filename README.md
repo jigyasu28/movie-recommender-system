@@ -29,24 +29,43 @@ Content-based filtering was used to recommend movies. Content-based filtering wo
 ## How to install?
 
 ### Prerequisites: 
-* Python3 and above.
-* NodeJs18 and above.
+* [Python3 and above](https://www.python.org/downloads/)
+* [NodeJs18 and above](https://nodejs.org/en/download/)
+* [Git](https://git-scm.com/download/win)
 * Windows 10 and above.
 
-Clone the repository: git clone [https://github.com/jigyasu28/movie-recommender-system.git](https://github.com/jigyasu28/movie-recommender-system.git)
+Clone the repository:
+``` git clone [https://github.com/jigyasu28/movie-recommender-system.git](https://github.com/jigyasu28/movie-recommender-system.git) ```
 ### For running the backend server:
-* Install the api dependencies using command: pip install -r api/requirements.txt
-* Run the backend server: python api/app.py
-Backend will be hosted on http://127.0.0.1:5000/
+#### Method 1:
+Open backend.bat file.
+#### Method 2:
+* Go to api folder:
+ ``` cd api ```
+* Install the api dependencies using command: 
+``` pip install -r requirements.txt ```
+* Run the setup.py file: 
+``` python setup.py ```
+* Run the backend server: 
+``` python app.py ```
+#### Backend will be hosted on http://127.0.0.1:5000/
 ### For frontend run commands:
-* Go to client folder: cd client
-* Run commands: 
-   1. npm install
-   2. npm start
-Frontend will be hosted on http://127.0.0.1:5000/
+#### Method 1:
+Open frontend.bat file.
+#### Method 2:
+* Go to client folder:
+ ``` cd client ```
+* Run commands:<br/>
+   1. ``` npm install ```
+   2. ``` npm start ```
+#### Frontend will be hosted on http://127.0.0.1:3000/
 ## Technologies Used
 * Backend - Python (Flask, Pandas, Pickle, Numpy, Flask-CORS).
 * Frontend - ReactJs, Material UI.
+
+## Live Video Demo
+- [https://youtu.be/IjEoe8k_qrE](https://youtu.be/IjEoe8k_qrE)
+
 ## Authors
 
 - [@JigyasuJain](https://github.com/jigyasu28)
