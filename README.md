@@ -6,9 +6,6 @@
 
 JigyasuFlix is an easy-to-use movie recommender web application. All you need to do is search for a movie and it will show you a similar movie by using a variety of machine learning algorithms.
 
-Currently deployed at [https://nimble-cactus-180569.netlify.app/](https://nimble-cactus-180569.netlify.app/).
-
-
 ## How it looks?
 
 ### Homepage
