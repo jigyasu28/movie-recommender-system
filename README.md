@@ -1,5 +1,5 @@
 
-# JigyasuFlix
+# Your Recomender
 ## _The Movie Recommender_
 
 
@@ -71,3 +71,4 @@ Open frontend.bat file.
 ## Feedback
 
 If you have any feedback, please reach out to us at jigyasujain81@gmail.com
+
